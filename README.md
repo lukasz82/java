@@ -15,3 +15,7 @@ Dodanie plików Javy
 	Zadanie3_1.java 	Dodanie plików Javy 	2 minutes ago
 	incDec.java 	Dodanie plików Javy 	2 minutes ago
 	operatory.java 	Dodanie plików Javy 	2 minutes ago
+	
+*********************
+Jakieś nowe zmiany
+********************
